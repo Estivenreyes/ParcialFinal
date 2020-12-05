@@ -19,7 +19,7 @@ public class Car implements Runnable{
 	}
 	
 	public void draw() {
-		
+		app.rect(0, 0,posX, posY);
 	}
 	
 	public void move() {

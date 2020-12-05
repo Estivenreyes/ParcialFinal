@@ -16,7 +16,7 @@ public class MainCharacter {
 	}
 	
 	public void draw() {
-		
+		app.ellipse(400, 20, posX,posY); 
 	}
 	
 	
