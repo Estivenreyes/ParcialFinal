@@ -19,9 +19,7 @@ public class Object {
 	
 	public void draw (int posX, int posY) {
 		app.text(object, posX, posY);
-		app.text(object, posX, posY);
-		app.text(object, posX, posY);
-		app.text(object, posX, posY);
+		
 	}
 
 	public String getObject() {
